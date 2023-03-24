@@ -1,8 +1,8 @@
 #include <iostream>
+#include <Header1.h>
 using namespace std;
 int main() {
 	cout << "Hello World";
-	int i = 0;
-	cin >> i;
+	cout << "Hello Header1.h";
 	return 0;
 }
